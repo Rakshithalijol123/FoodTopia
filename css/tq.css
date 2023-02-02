@@ -1,0 +1,107 @@
+.big-heading{
+    font-family: 'Montserrat-Bold', sans-serif;
+  color: #fe0000;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+.small-heading{
+  font-family: 'Rajdhani', sans-serif;
+  color: #f44646;
+  font-size: 1.5rem;
+}
+
+  #title{
+    height: 500px;
+  background-color: white;
+  background-image: linear-gradient(#ffedd3, white);
+  }
+
+  #title .container-fluid{
+    padding: 3% 5% 3%;
+  }
+
+
+#footer{
+  padding: 1% 5% 1% 5%;
+  background-color: black;
+}
+
+.finfo{
+  padding-top: 2%;
+  position: relative;
+}
+
+.food{
+  font-family: 'Permanent Marker', cursive;
+  color: white;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+.logo1{
+  height: 65px;
+  width: 65px;
+  float: left;
+  margin-right: 30px;
+  border-radius: 25px;
+}
+
+.copy{
+  padding-top: 2%;
+  text-align: center;
+  color: white;
+}
+
+.innn{
+  padding-top: 2%;
+  position: relative;
+}
+
+.opo{
+  color: white;
+  font-size: 1rem;
+  font-family: "ubuntu";
+}
+
+.out{
+
+  float: right;
+  position: absolute;
+  right: 50px;
+  top: 40px;
+}
+
+.gic{
+  font-family: 'Montserrat-Black' sans-serif;
+  color: white;
+  font-size: 2.0rem;
+  font-weight: 900;
+  padding-bottom: 2%;
+}
+
+.env{
+  margin-left: 10px;
+}
+
+.mid{
+  position: absolute;
+  right: 650px;
+  top: 40px;
+}
+
+.abu{
+  font-family: 'Montserrat-Black' sans-serif;
+  color: white;
+  font-size: 2.0rem;
+  font-weight: 900;
+  padding-bottom: 18%;
+}
+
+.win{
+  color: white;
+  font-size: 1.1rem;
+  font-family: "ubuntu";
+}

@@ -1,0 +1,257 @@
+body{
+  height: 900px;
+background-color: white;
+background-image: linear-gradient(#ffedd3, white);
+}
+
+h2{
+  font-family: 'Rajdhani-Bold', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 900;
+}
+
+.top_menu{
+  display: flex;
+}
+
+.top_logo{
+  width: 80px;
+  height: 80px;
+  border-radius: 7px;
+  position: absolute;
+  right: 50px;
+  top: 15px;
+}
+
+.heading{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  color: #fe0000;
+  font-size: 3.5rem;
+  margin-top: 15px;
+  margin-left: 15px;
+}
+
+.small_heading{
+  padding-top: 55px;
+}
+
+.items{
+  display: inline-block;
+  position: absolute;
+  left: 200px;
+}
+
+.price{
+  display: inline-block;
+  position: absolute;
+  right: 350px;
+}
+
+.one{
+  margin-top: 100px;
+}
+
+.foodi{
+  display: inline-block;
+  height: 60px;
+  width:  60px;
+  border-radius: 100%;
+  position: absolute;
+  left: 100px;
+  top: 240px;
+}
+
+.foodn{
+  display: inline-block;
+  position: absolute;
+  left: 215px;
+  font-family: "ubuntu";
+  font-size: 2rem;
+}
+
+.cost{
+  display: inline-block;
+  position: absolute;
+  right: 375px;
+  font-family: "ubuntu";
+  font-size: 2rem;
+}
+
+.add{
+  display: inline-block;
+  position: absolute;
+  right: 100px;
+}
+
+.two{
+  padding-top: 150px;
+}
+
+.foodi1{
+  display: inline-block;
+  height: 60px;
+  width:  60px;
+  border-radius: 100%;
+  position: absolute;
+  left: 100px;
+  top: 315px;
+}
+
+.foodn1{
+  display: inline-block;
+  position: absolute;
+  left: 215px;
+  font-family: "ubuntu";
+  font-size: 2rem;
+  top: 325px;
+}
+
+.cost1{
+  display: inline-block;
+  position: absolute;
+  right: 375px;
+  font-family: "ubuntu";
+  font-size: 2rem;
+  top: 325px;
+}
+
+.add1{
+  display: inline-block;
+  position: absolute;
+  right: 100px;
+  top: 325px;
+}
+
+
+.three{
+  padding-top: 150px;
+}
+
+.foodi2{
+  display: inline-block;
+  height: 60px;
+  width:  60px;
+  border-radius: 100%;
+  position: absolute;
+  left: 100px;
+  top: 390px;
+}
+
+.foodn2{
+  display: inline-block;
+  position: absolute;
+  left: 215px;
+  font-family: "ubuntu";
+  font-size: 2rem;
+  top: 400px;
+}
+
+.cost2{
+  display: inline-block;
+  position: absolute;
+  right: 375px;
+  font-family: "ubuntu";
+  font-size: 2rem;
+  top: 400px;
+}
+
+.add2{
+  display: inline-block;
+  position: absolute;
+  right: 100px;
+  top: 400px;
+}
+
+
+
+.four{
+  padding-top: 150px;
+}
+
+.foodi3{
+  display: inline-block;
+  height: 60px;
+  width:  60px;
+  border-radius: 100%;
+  position: absolute;
+  left: 100px;
+  top: 465px;
+}
+
+.foodn3{
+  display: inline-block;
+  position: absolute;
+  left: 215px;
+  font-family: "ubuntu";
+  font-size: 2rem;
+  top: 475px;
+}
+
+.cost3{
+  display: inline-block;
+  position: absolute;
+  right: 375px;
+  font-family: "ubuntu";
+  font-size: 2rem;
+  top: 475px;
+}
+
+.add3{
+  display: inline-block;
+  position: absolute;
+  right: 100px;
+  top: 475px;
+}
+
+
+.five{
+  padding-top: 150px;
+}
+
+.foodi4{
+  display: inline-block;
+  height: 60px;
+  width:  60px;
+  border-radius: 100%;
+  position: absolute;
+  left: 100px;
+  top: 540px;
+}
+
+.foodn4{
+  display: inline-block;
+  position: absolute;
+  left: 215px;
+  font-family: "ubuntu";
+  font-size: 2rem;
+  top: 550px;
+}
+
+.cost4{
+  display: inline-block;
+  position: absolute;
+  right: 375px;
+  font-family: "ubuntu";
+  font-size: 2rem;
+  top: 550px;
+}
+
+.add4{
+  display: inline-block;
+  position: absolute;
+  right: 100px;
+  top: 550px;
+}
+
+.btn2{
+  position: absolute;
+  top: 675px;
+  right: 150px;
+}
+
+.cart{
+  height: 35px;
+  width: 35px;
+  margin-right: 5px;
+}

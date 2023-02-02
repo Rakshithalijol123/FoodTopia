@@ -1,0 +1,207 @@
+hr{
+  width: 100%;
+}
+
+h1{
+  font-family: 'Montserrat-Bold' sans-serif;
+  font-weight: 900;
+  text-align: center;
+  color: #fe0000;
+  font-size: 4.5rem;
+}
+
+h2{
+  font-family: 'Sansita', sans-serif;
+  color: white;
+  text-align: center;
+  font-size: 3rem;
+}
+
+h3{
+  font-family: 'Rajdhani-Bold', sans-serif;
+  font-size: 2rem;
+  color: #ff0404;
+  font-weight: 900;
+}
+
+
+
+.navbar{
+  padding:0 0 4.5rem;
+}
+
+.navbar-brand{
+  font-family: "ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+.logo{
+  height: 85px;
+  width: 85px;
+  border-radius: 25px;
+}
+
+.big-heading{
+  font-family: 'Permanent Marker', cursive;
+  color: #fe0000;
+  font-size: 5.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+  #title{
+    height: 800px;
+  background-color: white;
+  background-image: linear-gradient(#ffedd3, white);
+  }
+
+  #title .container-fluid{
+    padding: 3% 15% 7%;
+  }
+
+  .title-image{
+      border-radius: 25px;
+      width: 80%;
+      position: absolute;
+      right: 3%;
+    }
+
+    .small-heading{
+      font-family: 'Rajdhani', sans-serif;
+      color: #f44646;
+      font-size: 2rem;
+    }
+
+
+
+    #features{
+
+      background-color: #fff;
+      position: relative;
+
+    }
+
+    .feature-box{
+      text-align: center;
+      padding: 5%;
+    }
+
+    .fim{
+      border-radius: 25px;
+      width: 100%;
+
+    }
+
+
+    #canteen{
+  padding-top: 5%;
+  padding-bottom: 5%;
+  text-align: center;
+  background-color: #ffedd3;
+  color: #fff;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+  text-align: left;
+
+}
+
+.can{
+  float: left;
+  width:40%;
+  margin-right: 30px;
+  border-radius: 25px;
+}
+
+.cant{
+  float: right;
+  width:40%;
+  margin-left: 30px;
+  border-radius: 25px;
+}
+
+.detail{
+  font-family: 'Rajdhani', sans-serif;
+  color: #f44646;
+  font-size: 1.5rem;
+  padding-top: 3%;
+}
+
+.cname{
+  text-align: center;
+}
+
+
+#footer{
+  padding: 3% 5% 1% 5%;
+  background-color: black;
+}
+
+.finfo{
+  padding-top: 2%;
+  position: relative;
+}
+
+.food{
+  font-family: 'Permanent Marker', cursive;
+  color: white;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+.logo1{
+  height: 65px;
+  width: 65px;
+  float: left;
+  margin-right: 30px;
+  border-radius: 25px;
+}
+
+.copy{
+  padding-top: 4%;
+  text-align: center;
+}
+
+.innn{
+  padding-top: 2%;
+  position: relative;
+}
+
+.opo{
+  color: white;
+  font-size: 1rem;
+  font-family: "ubuntu";
+}
+
+.out{
+
+  float: right;
+  position: absolute;
+  right: 50px;
+  top: 40px;
+}
+
+.gic{
+  font-family: 'Montserrat-Black' sans-serif;
+  color: white;
+  font-size: 2.0rem;
+  font-weight: 900;
+  padding-bottom: 2%;
+}
+
+.env{
+  margin-left: 10px;
+  size: 3x;
+}

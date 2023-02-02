@@ -1,0 +1,176 @@
+h1{
+  font-family: 'Rajdhani-Bold', sans-serif;
+  font-weight: 900;
+  padding-top: 15px;
+  padding-left: 15px;
+}
+
+/* Canteen Details */
+.items_detail{
+    border: none;
+    background-color: white;
+
+}
+.canteen{
+    display: flex;
+    margin: 5px;
+}
+p{
+    margin: 5px;
+    font-size: 45px;
+    position: absolute;
+    left: 150px;
+    top: 15px;
+
+}
+
+.ic{
+  height: 80px;
+  width: 90px;
+  margin-right: 5px;
+  border-radius: 25px;
+
+}
+
+.ic:hover{
+  box-shadow: 5px 5px grey;
+}
+
+.ind{
+  font-family: 'Rajdhani', sans-serif;
+  position:absolute;
+  left: 110px;
+}
+
+.logo{
+  height: 65px;
+  width: 65px;
+  float: right;
+  margin-right: 30px;
+  border-radius: 25px;
+  position: absolute;
+  right: 50px;
+  top: 20px;
+}
+
+.logo:hover{
+  box-shadow: 5px 5px grey;
+}
+
+.items{
+    display: flex;
+}
+.names{
+    margin: 10px;
+}
+.names li{
+    margin: 20px;
+    font-size: 20px;
+}
+.price{
+    position: absolute;
+    right: 70px;
+    margin: 10px;
+    font-family: "ubuntu";
+}
+.price li{
+    list-style: none;
+    margin: 20px;
+    font-size: 20px;
+    font-family: "ubuntu";
+}
+
+.main{
+background-color: #e5e5e5;
+height: 15px;
+width: 100%;
+}
+
+/* Bill Details */
+.bill_details{
+    height: 830px;
+    background-color: white;
+
+    margin-top: 10px;
+    border-radius: 7px;
+}
+.total{
+    display: inline-block;
+    font-size: 20px;
+
+}
+.rupees{
+    display: inline-block;
+    font-size: 20px;
+    position: absolute;
+    right: 90px;
+
+}
+.total ul li{
+    list-style: none;
+
+}
+.rupees ul li{
+    list-style: none;
+}
+.questions{
+    display: inline-block;
+}
+.questions li{
+    list-style: none;
+    font-size: 30px;
+    margin: 15px;
+}
+.answers{
+    display: inline-block;
+}
+.answers li{
+    list-style: none;
+    font-size: 30px;
+    margin: 15px;
+}
+.stdnt_dtl{
+    margin: auto;
+    box-shadow: 7px 7px grey;
+    background-color: rgb(206, 233, 241);
+    width: 700px;
+    height: 550px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* Buttons */
+.menu{
+    border-radius: 7px;
+    font-size: 18px;
+    padding: 5px;
+    border: none;
+    position: relative;
+    right: 170px;
+}
+.menu:hover{
+    cursor: pointer;
+    background-color: transparent;
+    border: 1px solid black;
+}
+.payment{
+    border-radius: 7px;
+    font-size: 18px;
+    padding: 5px;
+    border: none;
+    position: relative;
+    left: 170px;
+}
+.payment:hover{
+    cursor: pointer;
+    background-color: transparent;
+    border: 1px solid black;
+}
+.menu a{
+    text-decoration: none;
+    color: dimgray;
+}
+.payment a{
+    text-decoration: none;
+    color: dimgray;
+}
